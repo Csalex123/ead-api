@@ -1,0 +1,21 @@
+{
+  "name": "ead-api",
+  "version": "0.0.1",
+  "description": "APi da plataforma de ensino a distância",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "plataforma",
+    "EAD"
+  ],
+  "author": "Alex Ricardo",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "dependencies": {
+    "@hapi/hapi": "^20.0.0"
+  }
+}
